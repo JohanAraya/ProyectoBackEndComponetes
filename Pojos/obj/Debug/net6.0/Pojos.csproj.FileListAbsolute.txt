@@ -45,3 +45,15 @@ C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug
 C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\refint\Pojos.dll
 C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\Pojos.pdb
 C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Pojos\obj\Debug\net6.0\ref\Pojos.dll
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Pojos\bin\Debug\net6.0\Pojos.deps.json
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Pojos\bin\Debug\net6.0\Pojos.dll
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Pojos\bin\Debug\net6.0\Pojos.pdb
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Pojos\obj\Debug\net6.0\Pojos.csproj.AssemblyReference.cache
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Pojos\obj\Debug\net6.0\Pojos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Pojos\obj\Debug\net6.0\Pojos.AssemblyInfoInputs.cache
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Pojos\obj\Debug\net6.0\Pojos.AssemblyInfo.cs
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Pojos\obj\Debug\net6.0\Pojos.csproj.CoreCompileInputs.cache
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Pojos\obj\Debug\net6.0\Pojos.dll
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Pojos\obj\Debug\net6.0\refint\Pojos.dll
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Pojos\obj\Debug\net6.0\Pojos.pdb
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Pojos\obj\Debug\net6.0\ref\Pojos.dll

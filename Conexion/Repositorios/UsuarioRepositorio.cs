@@ -64,6 +64,11 @@ namespace Datos.Repositorios
             return db.Usuarios.ToList();
         }
 
+        public List<Mascota> listarPretendientes(Mascota mascota)
+        {
+            throw new NotImplementedException();
+        }
+
         public Usuario seleccionarPorId(Guid entidadId)
         {
             var usuarioSeleccionado = db.Usuarios.Where(c => c._id == entidadId).FirstOrDefault();

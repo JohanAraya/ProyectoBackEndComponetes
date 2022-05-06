@@ -44,6 +44,13 @@ namespace TestCosmo.Controllers
             return Ok(servicio.seleccionarPorIdUsuario(idUsuario));
         }
 
+        [HttpGet("{mascota}")]
+        public ActionResult<List<Mascota>> Get(Mascota mascota)
+        {
+            var servicio = CrearServicio();
+            return Ok(servicio.listaPretendientes(mascota));
+        }
+
         // POST api/<MascotaController>
         [HttpPost]
         public ActionResult Post([FromBody] Mascota mascota)

@@ -47,6 +47,11 @@ namespace Servicios.Servicios
             repoMascota.guardarTodosLosCambios();
         }
 
+        public List<Mascota> listaPretendientes(Mascota mascota)
+        {
+            return repoMascota.listarPretendientes(mascota);
+        }
+
         public List<Mascota> Listar()
         {
             return repoMascota.Listar();

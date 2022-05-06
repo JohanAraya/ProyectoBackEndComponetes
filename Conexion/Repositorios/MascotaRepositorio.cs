@@ -68,6 +68,11 @@ namespace Datos.Repositorios
             return mascotaSeleccionada;
         }
 
+        public List<Mascota> listarPretendientes(Mascota mascota)
+        {  
+            return db.Mascotas.Where(c => c.raza == mascota.raza && c.tipo == mascota.tipo && c.sexo != mascota.sexo).ToList();
+        }
+
         public Mascota seleccionarPorIdUsuario(string idUsuario)
         {
             var mascotaSeleccionada = db.Mascotas.Where(c => c.idUsuario == idUsuario).FirstOrDefault();

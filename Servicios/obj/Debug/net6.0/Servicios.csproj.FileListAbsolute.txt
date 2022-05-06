@@ -58,3 +58,18 @@ C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\D
 C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\refint\Servicios.dll
 C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\Servicios.pdb
 C:\Users\xcort\Desktop\Proyecto Componentes\Proyecto Componentes\Servicios\obj\Debug\net6.0\ref\Servicios.dll
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\bin\Debug\net6.0\Servicios.deps.json
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\bin\Debug\net6.0\Servicios.dll
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\bin\Debug\net6.0\Servicios.pdb
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\bin\Debug\net6.0\Pojos.dll
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\bin\Debug\net6.0\Pojos.pdb
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\obj\Debug\net6.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\obj\Debug\net6.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\obj\Debug\net6.0\Servicios.AssemblyInfo.cs
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\obj\Debug\net6.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\obj\Debug\net6.0\Servicios.csproj.CopyComplete
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\obj\Debug\net6.0\Servicios.dll
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\obj\Debug\net6.0\refint\Servicios.dll
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\obj\Debug\net6.0\Servicios.pdb
+C:\Users\ali_z\Documents\GitHub\ProyectoBackEndComponetes\Servicios\obj\Debug\net6.0\ref\Servicios.dll

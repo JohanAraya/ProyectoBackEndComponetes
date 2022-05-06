@@ -1,28 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Proyecto\\Proyecto.csproj": {}
+    "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Proyecto\\Proyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Conexion\\Conexion.csproj": {
+    "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Conexion\\Conexion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Conexion\\Conexion.csproj",
+        "projectUniqueName": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Conexion\\Conexion.csproj",
         "projectName": "Conexion",
-        "projectPath": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Conexion\\Conexion.csproj",
-        "packagesPath": "C:\\Users\\xcort\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Conexion\\obj\\",
+        "projectPath": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Conexion\\Conexion.csproj",
+        "packagesPath": "C:\\Users\\ali_z\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Conexion\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xcort\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ali_z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -35,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Pojos\\Pojos.csproj": {
-                "projectPath": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Pojos\\Pojos.csproj"
+              "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Pojos\\Pojos.csproj": {
+                "projectPath": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Pojos\\Pojos.csproj"
               }
             }
           }
@@ -83,25 +76,18 @@
         }
       }
     },
-    "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Pojos\\Pojos.csproj": {
+    "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Pojos\\Pojos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Pojos\\Pojos.csproj",
+        "projectUniqueName": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Pojos\\Pojos.csproj",
         "projectName": "Pojos",
-        "projectPath": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Pojos\\Pojos.csproj",
-        "packagesPath": "C:\\Users\\xcort\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Pojos\\obj\\",
+        "projectPath": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Pojos\\Pojos.csproj",
+        "packagesPath": "C:\\Users\\ali_z\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Pojos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xcort\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ali_z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -144,25 +130,18 @@
         }
       }
     },
-    "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Proyecto\\Proyecto.csproj": {
+    "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Proyecto\\Proyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Proyecto\\Proyecto.csproj",
+        "projectUniqueName": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Proyecto\\Proyecto.csproj",
         "projectName": "Proyecto",
-        "projectPath": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Proyecto\\Proyecto.csproj",
-        "packagesPath": "C:\\Users\\xcort\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Proyecto\\obj\\",
+        "projectPath": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Proyecto\\Proyecto.csproj",
+        "packagesPath": "C:\\Users\\ali_z\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Proyecto\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xcort\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ali_z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -175,11 +154,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Conexion\\Conexion.csproj": {
-                "projectPath": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Conexion\\Conexion.csproj"
+              "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Conexion\\Conexion.csproj": {
+                "projectPath": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Conexion\\Conexion.csproj"
               },
-              "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Servicios\\Servicios.csproj": {
-                "projectPath": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Servicios\\Servicios.csproj"
+              "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Servicios\\Servicios.csproj": {
+                "projectPath": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Servicios\\Servicios.csproj"
               }
             }
           }
@@ -221,25 +200,18 @@
         }
       }
     },
-    "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Servicios\\Servicios.csproj": {
+    "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Servicios\\Servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Servicios\\Servicios.csproj",
+        "projectUniqueName": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Servicios\\Servicios.csproj",
         "projectName": "Servicios",
-        "projectPath": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Servicios\\Servicios.csproj",
-        "packagesPath": "C:\\Users\\xcort\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Servicios\\obj\\",
+        "projectPath": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Servicios\\Servicios.csproj",
+        "packagesPath": "C:\\Users\\ali_z\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Servicios\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xcort\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ali_z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -252,8 +224,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Pojos\\Pojos.csproj": {
-                "projectPath": "C:\\Users\\xcort\\Desktop\\Proyecto Componentes\\Proyecto Componentes\\Pojos\\Pojos.csproj"
+              "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Pojos\\Pojos.csproj": {
+                "projectPath": "C:\\Users\\ali_z\\Documents\\GitHub\\ProyectoBackEndComponetes\\Pojos\\Pojos.csproj"
               }
             }
           }

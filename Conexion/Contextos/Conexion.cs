@@ -14,12 +14,16 @@ namespace Datos.Contextos
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Mascota> Mascotas { get; set; }
 
+        public DbSet<Match> Matches { get; set; }
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            //Le paso la conexion
-
-
+            options.UseCosmos(
+           "https://petcupid-final.documents.azure.com:443/",
+           "D6yBtTFVFbYI75K2g39qf6vS2RYDAJaCVKhoSuSmsFn30GABxOiIxTWc3cV2Pr8GqFpSZPleUCRIARbQ9w8l7g==",
+           "petcupid-final"
+           );
 
         }
 
