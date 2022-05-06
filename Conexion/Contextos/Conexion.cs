@@ -19,7 +19,8 @@ namespace Datos.Contextos
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-          
+            //Le paso la conexion
+           
 
         }
 
