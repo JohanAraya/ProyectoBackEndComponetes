@@ -19,11 +19,7 @@ namespace Datos.Contextos
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            options.UseCosmos(
-           "https://petcupid-final.documents.azure.com:443/",
-           "D6yBtTFVFbYI75K2g39qf6vS2RYDAJaCVKhoSuSmsFn30GABxOiIxTWc3cV2Pr8GqFpSZPleUCRIARbQ9w8l7g==",
-           "petcupid-final"
-           );
+          
 
         }
 
